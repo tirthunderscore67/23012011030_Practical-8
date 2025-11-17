@@ -2,4 +2,5 @@
 
 AIM: Create a Simple iOS application.
 
-<a href="https://docs.google.com/gview?url=https://github.com/BM-INFINITY/MAD_23012011036_Practical8/raw/main/23012011036_BHAVY_MODI_Practical-8_MAD.pdf&embedded=true">click here to view practical 8</a>
+
+[23012011030_Tirth_Makwana_Practical-8_MAD.pdf](https://github.com/user-attachments/files/23581401/23012011030_Tirth_Makwana_Practical-8_MAD.pdf)
